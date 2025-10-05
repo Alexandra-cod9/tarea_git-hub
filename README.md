@@ -1,4 +1,4 @@
-# Tarea github
+# Tarea 2 github SGI
 
 ## Alexandra Nicole Urrutia Gutiérrez- 00091421
 ## Alexis Andrés Valencia Barrera-00038019
